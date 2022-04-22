@@ -19,7 +19,7 @@ The current version of the specification is
 
 ## Authored Profiles
 
-ADL maintains a [public repository of authored xAPI profiles](https://github.com/adlnet/xapi-authored-profiles) based on this specification and processes provided by ADL's vocabulary and profile index, [http://xapi.vocab.pub](http://xapi.vocab.pub). 
+ADL maintains a [public repository of authored xAPI profiles](https://github.com/adlnet/xapi-authored-profiles) based on this specification. Profiles are also stored in the xAPI Profile server which is currently undergoing testing.[xAPI Profile Server](https://profiles.adlnet.gov/). 
 
 ## What to do if the spec is unclear
 
